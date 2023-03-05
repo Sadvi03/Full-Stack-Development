@@ -1,0 +1,24 @@
+Project: Personal Portfolio Website
+
+This project involves creating a personal portfolio website that showcases your skills, education, and experience. The website should have the following pages:
+
+Home Page: This page should include a brief introduction about yourself, a profile picture, and links to your social media profiles.
+
+About Page: This page should include a detailed description of your skills, education, and experience.
+
+Projects Page: This page should showcase your projects/previous assignments with descriptions and images (screenshot of the application).
+
+Contact Page: This page should include a contact form that allows visitors to send a message to you. (Field - Name, email, subject and message)
+
+To create this website, You can use HTML to create the structure and content of the pages, CSS to style the pages, Bootstrap to make the website responsive and mobile-friendly, and JavaScript to add interactivity to the website, such as form validation and animation effects.
+
+Here are some features that you should add to the website:
+
+Must have features
+
+A navigation menu that allows visitors to easily navigate between the pages.
+A responsive layout that adjusts to different screen sizes.
+
+Good to have features
+A slideshow or gallery to showcase your projects.
+Social media sharing buttons to allow visitors to share your website on their social media profiles
